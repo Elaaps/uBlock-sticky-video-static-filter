@@ -1,0 +1,5 @@
+[Adblock Plus 2.0]
+! Title: sticky video static filter
+
+jeuxvideo.com##.js-layout-media-sticky
+millenium.org##.article__video
