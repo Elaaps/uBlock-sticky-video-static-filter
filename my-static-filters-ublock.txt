@@ -4,3 +4,4 @@
 jeuxvideo.com##.js-layout-media-sticky
 millenium.org##.article__video
 allocine.fr##.player.player-inserted.player-auto-play 
+programme-tv.net##.articleOverview-media
