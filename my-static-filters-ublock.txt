@@ -7,3 +7,7 @@ allocine.fr##.player.player-inserted.player-auto-play
 programme-tv.net##.articleOverview-media
 lacremedugaming.fr##.showheroes-player
 bfmtv.com##.article_cover
+cnews.fr##.block-dm-ledirect
+cnews.fr##.keep-header-height
+cnews.fr##.header-menu:style(top: auto !important)
+
